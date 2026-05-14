@@ -1,30 +1,87 @@
 # Hi there! I'm Asadbek 👋
 
-### 🛡️ Aspiring GRC Engineer | Cybersecurity Specialist
+🛡️ Aspiring GRC Engineer | Cybersecurity & Linux Security Student
 
-I am a 16-year-old student from Bukhara, Uzbekistan, currently executing a rigorous **Technical GRC Roadmap**. I believe that effective security is the perfect balance between deep technical proficiency and strategic risk management.
+I am a 16-year-old student from Bukhara, Uzbekistan, currently following a structured Technical GRC Roadmap focused on cybersecurity, Linux security, logging, risk analysis, and compliance fundamentals.
 
----
+I believe strong cybersecurity requires both:
 
-### 🚀 Current Projects & Learning
-- 🗺️ **[Cybersecurity-Roadmap](https://github.com/asadgulyamov09-pixel/Cybersecurity-Roadmap)** — My central repository for tracking daily progress and technical skills.
-- ✍️ **Medium Blog:** Documenting technical case studies and risk analysis (Link coming soon).
+* technical understanding;
+* and business risk awareness.
 
----
+Over the past two weeks, I have been building foundational skills in:
 
-### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadgulyamov09-pixel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadgulyamov09-pixel&layout=compact&theme=tokyonight)
-
----
-
-### 🛠️ Technical Stack & Tools
-- **OS:** Kali Linux, Ubuntu, Windows Subsystem for Linux (WSL).
-- **Security:** SSH Key Management, Archive Forensics (Gzip/Tar), Hex Analysis, Risk Mapping.
-- **Development:** Python (AI-driven automation), Bash Scripting.
+* networking;
+* risk mapping;
+* Linux security controls;
+* logging and monitoring;
+* access control;
+* and security documentation.
 
 ---
 
-### 📫 Connect with me
-- Track my real-time progress in my [Cybersecurity-Roadmap](https://github.com/asadgulyamov09-pixel/Cybersecurity-Roadmap)!
-- Reach out if you're interested in GRC, Risk Analysis, or Security Automation.
+# 🚀 Current Projects & Learning
+
+* 🗺️ Cybersecurity-Roadmap — My main repository for documenting daily progress, technical labs, Linux practice, and GRC studies.
+
+* ✍️ Medium Blog — Writing technical articles about:
+
+  * web request risk mapping;
+  * Linux permissions;
+  * logging and monitoring;
+  * cybersecurity risk analysis.
+
+---
+
+# 📊 Current Learning Focus
+
+* Linux Security & Permissions
+* Logging & Monitoring
+* Risk Analysis & Risk Registers
+* TCP/IP, DNS, HTTP/HTTPS
+* ISO 27001 Fundamentals
+* Access Control & Least Privilege
+* GRC Foundations
+
+---
+
+# 🛠️ Technical Stack & Tools
+
+### Operating Systems
+
+* Kali Linux
+* Ubuntu
+* Windows Subsystem for Linux (WSL)
+
+### Security & Networking
+
+* Linux Permissions (chmod/chown)
+* Journalctl & Log Analysis
+* SSH & SSH Keys
+* Archive Forensics (gzip/tar/bzip2)
+* Hexdump & Hex Analysis
+* DNS / HTTP / HTTPS Fundamentals
+* Risk Mapping
+
+### Development
+
+* Python (automation basics)
+* Bash Scripting
+* Git & GitHub Documentation
+
+---
+
+# 📂 Current Portfolio
+
+* Daily GitHub documentation
+* Linux security labs
+* GRC learning notes
+* Risk analysis case studies
+* Medium technical articles
+
+---
+
+# 📬 Connect with Me
+
+* 📌 Follow my progress through my Cybersecurity-Roadmap repository.
+* 🧠 Interested in cybersecurity, GRC, Linux security, or risk analysis? Let’s connect.
