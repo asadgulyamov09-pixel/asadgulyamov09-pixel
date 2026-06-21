@@ -1,83 +1,145 @@
 # Hi there! I'm Asadbek 👋
 
-🛡️ **Aspiring GRC Engineer | Cybersecurity Student | Cloud & Risk Management Enthusiast**
+🛡️ **Aspiring GRC Engineer | Cybersecurity Student | Governance, Risk & Compliance | Cloud Security Enthusiast**
 
-I'm a 16-year-old student from Uzbekistan currently following a structured Cybersecurity & Technical GRC Roadmap.
+I'm a 16-year-old student from Uzbekistan passionate about cybersecurity, governance, cloud security, and risk management.
 
-My goal is to build strong foundations in cybersecurity, cloud security, governance, risk management, and compliance while documenting my learning journey publicly.
+Currently, I am following a structured Cybersecurity & Technical GRC Roadmap while publicly documenting my learning journey through GitHub, Medium, and LinkedIn.
 
-I believe effective cybersecurity requires both:
+My long-term goal is to build a strong foundation in cybersecurity governance, risk management, cloud security, and compliance while developing both technical and business-oriented security skills.
 
-* Technical understanding
-* Business risk awareness
+I believe cybersecurity is not only about technology.
+
+It is also about understanding risks, protecting business operations, supporting decision-making, and building resilient organizations.
 
 ---
 
-## 🚀 What I've Learned So Far
+# 🚀 What I've Learned So Far
 
-### 🌐 Networking & Web Security
+## 🌐 Networking & Web Security
 
 * OSI Model
 * TCP/IP Fundamentals
 * TCP vs UDP
-* DNS & DNS Spoofing
+* TCP Three-Way Handshake
+* DNS Fundamentals
+* DNS Spoofing
 * HTTP vs HTTPS
 * TLS Fundamentals
-* MITM Attacks
-* TCP Three-Way Handshake
+* Man-in-the-Middle (MITM) Attacks
+* Network Security Basics
 
-### 🐧 Linux & Security Operations
+---
 
+## 🐧 Linux & Security Operations
+
+* Linux File System Fundamentals
 * Linux Permissions
 * chmod & chown
 * SSH Basics
+* Access Control
 * Logging & Monitoring
 * journalctl
-* Access Control
-* Linux File System Fundamentals
+* Security Operations Fundamentals
 
-### 🎯 Threats & Risk Analysis
+---
+
+## 🎯 Threats, Risks & Security Controls
 
 * CIA Triad
-* Phishing & Spear Phishing
-* Credential Theft
-* Ransomware
-* DoS & DDoS Attacks
-* MITRE ATT&CK Basics
-* Business Impact Analysis
 * Risk Assessment
-* Security Controls
+* Risk Registers
+* Threat Identification
 * Threat-to-Control Mapping
+* Business Impact Analysis (BIA)
+* Security Controls
+* Ransomware
+* Credential Theft
+* Phishing & Spear Phishing
+* DoS & DDoS Attacks
+* MITRE ATT&CK Fundamentals
 
-### ☁️ Cloud Security & Governance
+---
 
+## ☁️ Cloud Security & Governance
+
+* Cloud Computing Fundamentals
 * AWS Fundamentals
 * Azure Fundamentals
-* Cloud Computing Basics
+* Shared Responsibility Model
 * IAM (Identity & Access Management)
 * Least Privilege Principle
-* Shared Responsibility Model
-* Cloud Risks & Controls
 * Access Reviews
-* Cloud Governance
+* Cloud Risks & Controls
+* Cloud Governance Concepts
 
 ---
 
-## 📚 Current Learning Focus
+## 🏛️ Governance, Risk & Compliance (GRC)
 
-* GRC (Governance, Risk & Compliance)
-* Cloud Security
-* AWS & Azure
-* IAM
+### Governance Fundamentals
+
+* Governance vs Management
+* Three Lines Model
+* GRC Operating Model
+* Organizational Accountability
+
+### NIST Cybersecurity Framework (CSF)
+
+* Govern
+* Identify
+* Protect
+* Detect
+* Respond
+* Recover
+
+### NIST Concepts
+
+* Outcomes
+* Categories & Subcategories
+* Current Profile
+* Target Profile
+* Gap Analysis
+* Cybersecurity Assessments
+* Cybersecurity Maturity
+
+### Governance Documentation
+
+* Policy Framework
+* Policy vs Standard vs Procedure vs Guideline
+* Policy Tree Structure
+* Policy Lifecycle
+* Policy Reviews & Updates
+
+### Accountability & Ownership
+
+* RACI Matrix
+* Responsible
+* Accountable
+* Consulted
+* Informed
+* Policy Ownership
+* Risk Ownership
+
+---
+
+# 📚 Current Learning Focus
+
+* Governance, Risk & Compliance (GRC)
+* NIST Cybersecurity Framework
+* ISO 27001 Fundamentals
 * Risk Management
-* Linux Security
+* Cloud Security Governance
+* IAM & Access Management
 * Security Documentation
-* Governance & Compliance Fundamentals
+* Policy Development
 * Cybersecurity Analysis
+* Python Automation
+* Linux Security
 
 ---
 
-## 🛠️ Technical Stack & Tools
+# 🛠️ Tools & Technologies
 
 ### Operating Systems
 
@@ -87,7 +149,6 @@ I believe effective cybersecurity requires both:
 
 ### Security & Networking
 
-* OSI Model
 * TCP/IP
 * DNS
 * HTTP/HTTPS
@@ -95,87 +156,132 @@ I believe effective cybersecurity requires both:
 * SSH
 * Linux Permissions
 * Logging & Monitoring
-* MITM Concepts
 * Threat Analysis
 
-### Cloud & Governance
+### Cloud
 
 * AWS Basics
 * Azure Basics
 * IAM Fundamentals
-* Shared Responsibility Model
 * Cloud Risk Analysis
-* Risk Registers
 * Governance Controls
 
 ### Development
 
 * Python (Learning)
 * Bash Scripting (Learning)
-* Git & GitHub
+* Git
+* GitHub
 
 ---
 
-## 📂 Portfolio
+# 📈 Learning Journey
 
-### 🗺️ Cybersecurity Roadmap
+I am documenting my cybersecurity and GRC journey publicly through:
 
-A public repository documenting my cybersecurity journey through:
-
-* Daily learning notes
-* Linux practice
-* Cloud security studies
-* Risk analysis
+* Daily study notes
+* Weekly learning summaries
 * Governance concepts
+* Risk management exercises
+* Cloud security studies
 * Technical documentation
+* Medium articles
+* LinkedIn updates
 
-### ✍️ Medium Blog
+My goal is to demonstrate consistent growth, practical understanding, and long-term commitment to cybersecurity and governance.
+
+---
+
+# 🧠 Biggest Lesson So Far
+
+One of the most important lessons I have learned is that cybersecurity is not only about firewalls, tools, or technical controls.
+
+Strong cybersecurity programs require:
+
+* Effective governance
+* Clear ownership
+* Risk-based decision making
+* Business alignment
+* Continuous improvement
+* Accountability
+
+Technology protects systems.
+
+Governance protects organizations.
+
+---
+
+# 🎯 Current Goals
+
+* Strengthen GRC knowledge
+* Improve cloud security understanding
+* Develop risk management skills
+* Learn ISO 27001 fundamentals
+* Build cybersecurity documentation skills
+* Improve Python automation skills
+* Gain hands-on security experience
+* Grow a professional cybersecurity portfolio
+* Prepare for future cybersecurity and cloud certifications
+
+---
+
+# 📂 Portfolio
+
+## 🗺️ Cybersecurity Roadmap
+
+Public repository documenting:
+
+* Cybersecurity studies
+* Governance concepts
+* Risk management
+* Linux security
+* Cloud security
+* Technical GRC progress
+
+Repository:
+
+https://github.com/asadgulyamov09-pixel/Cybersecurity-Roadmap
+
+---
+
+## ✍️ Medium Blog
 
 Writing about:
 
-* Linux Security
-* Logging & Monitoring
-* Risk Analysis
-* Cloud Security
-* Governance
 * Cybersecurity Fundamentals
+* Governance
+* Risk Management
+* Linux Security
+* Cloud Security
+* NIST CSF
+* GRC Learning Journey
+
+Medium:
+
+https://medium.com/@asadgulyamov09
 
 ---
 
-## 🧠 Biggest Lesson From My First Month
+## 💼 LinkedIn
 
-One of the most important things I've learned is that cybersecurity is not only about technology.
+Sharing:
 
-It is also about:
-
-* Protecting business operations
-* Managing risks
-* Maintaining availability
-* Protecting customer trust
-* Controlling access
-* Implementing governance
-* Making security decisions based on impact
+* Weekly progress updates
+* Governance studies
+* Cybersecurity learning
+* Cloud security insights
+* GRC journey
 
 ---
 
-## 🎯 Current Goals
+# 📬 Connect With Me
 
-* Strengthen Linux & Cloud Security knowledge
-* Improve GRC understanding
-* Build hands-on cybersecurity experience
-* Develop Python automation skills
-* Create technical documentation
-* Grow a public cybersecurity portfolio
-* Prepare for future cloud and cybersecurity certifications
+GitHub:
+https://github.com/asadgulyamov09-pixel
 
----
+Medium:
+[https://medium.com/@asadgulyamov09](https://medium.com/@asadgulyamov09/week-3-understanding-governance-through-policies-and-accountability-a26a949e1f8d)
 
-## 📬 Connect With Me
-
-📌 GitHub Repository:
-https://github.com/asadgulyamov09-pixel/Cybersecurity-Roadmap
-
-📖 Medium:
-(https://medium.com/@asadgulyamov09/one-month-into-cybersecurity-what-ive-learned-so-far-5097fda7a459)
-
-Always learning. Always documenting. Always improving.
+Always learning.
+Always documenting.
+Always improving. 🚀
